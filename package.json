@@ -1,0 +1,18 @@
+{
+  "name": "coletabase",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "axios": "^0.16.2",
+    "csv-parser": "^2.3.2",
+    "github-api": "^3.2.2",
+    "mysql": "^2.17.1",
+    "xml2js": "^0.4.22"
+  }
+}
